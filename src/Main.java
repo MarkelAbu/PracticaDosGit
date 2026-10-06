@@ -10,6 +10,6 @@ public class Main {
         int num = sc.nextInt();
 
         int resultado = (num * 2);
-        System.out.println("Resultado: " + resultado);
+        System.out.println("Resultado: " + (resultado -1));
     }
 }
