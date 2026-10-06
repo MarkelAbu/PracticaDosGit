@@ -8,5 +8,8 @@ public class Main {
         System.out.println("Buenos días");
         System.out.println("Dame un número:");
         int num = sc.nextInt();
+
+        int resultado = (num * 2);
+        System.out.println("Resultado: " + resultado);
     }
 }
